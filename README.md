@@ -2,7 +2,7 @@ Big Data, NoSQL & DevOps Docker Images
 ======================================
 
 [![Codacy](https://api.codacy.com/project/badge/Grade/de6229f2d2ba4945acde9f86f59d2c66)](https://www.codacy.com/app/buluma/Dockerfiles)
-[![CodeFactor](https://www.codefactor.io/repository/github/buluma/Dockerfiles/badge)](https://www.codefactor.io/repository/github/buluma/Dockerfiles)
+[![CodeFactor](https://www.codefactor.io/repository/github/buluma/dockerfiles-test/badge)](https://www.codefactor.io/repository/github/buluma/dockerfiles-test)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=buluma_Dockerfiles&metric=alert_status)](https://sonarcloud.io/dashboard?id=buluma_Dockerfiles)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=buluma_Dockerfiles&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=buluma_Dockerfiles)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=buluma_Dockerfiles&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=buluma_Dockerfiles)
