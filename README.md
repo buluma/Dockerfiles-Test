@@ -1,12 +1,8 @@
 Big Data, NoSQL & DevOps Docker Images
 ======================================
 
-[![Codacy](https://api.codacy.com/project/badge/Grade/de6229f2d2ba4945acde9f86f59d2c66)](https://www.codacy.com/app/buluma/Dockerfiles)
+[![Codacy](https://app.codacy.com/project/badge/Grade/9e57a03471ce4d4db13d8c1fa62d7994)](https://www.codacy.com/gh/buluma/Dockerfiles-Test/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=buluma/Dockerfiles-Test&amp;utm_campaign=Badge_Grade)
 [![CodeFactor](https://www.codefactor.io/repository/github/buluma/dockerfiles-test/badge)](https://www.codefactor.io/repository/github/buluma/dockerfiles-test)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=buluma_Dockerfiles&metric=alert_status)](https://sonarcloud.io/dashboard?id=buluma_Dockerfiles)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=buluma_Dockerfiles&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=buluma_Dockerfiles)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=buluma_Dockerfiles&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=buluma_Dockerfiles)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=buluma_Dockerfiles&metric=security_rating)](https://sonarcloud.io/dashboard?id=buluma_Dockerfiles)
 [![GitHub stars](https://img.shields.io/github/stars/buluma/Dockerfiles?logo=github)](https://github.com/buluma/Dockerfiles/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/buluma/Dockerfiles?logo=github)](https://github.com/buluma/Dockerfiles/network)
 [![Contributors](https://img.shields.io/github/contributors/buluma/Dockerfiles?logo=github)](https://github.com/buluma/Dockerfiles/graphs/contributors)
@@ -26,9 +22,9 @@ Big Data, NoSQL & DevOps Docker Images
 [![TeamCity](https://img.shields.io/badge/TeamCity-ready-blue?logo=teamcity)](https://github.com/buluma/TeamCity-CI)
 
 [![Travis CI](https://img.shields.io/travis/buluma/Dockerfiles/master?logo=travis&label=Travis%20CI)](https://travis-ci.org/buluma/Dockerfiles)
-[![AppVeyor](https://img.shields.io/appveyor/build/buluma/Dockerfiles/master?logo=appveyor&label=AppVeyor)](https://ci.appveyor.com/project/buluma/Dockerfiles/branch/master)
-[![Drone](https://img.shields.io/drone/build/buluma/Dockerfiles/master?logo=drone&label=Drone)](https://cloud.drone.io/buluma/Dockerfiles)
-[![CircleCI](https://circleci.com/gh/buluma/Dockerfiles.svg?style=svg)](https://circleci.com/gh/buluma/Dockerfiles)
+[![AppVeyor](https://img.shields.io/appveyor/build/buluma/Dockerfiles-Test/master?logo=appveyor&label=AppVeyor)](https://ci.appveyor.com/project/buluma/Dockerfiles-Test/branch/master)
+[![Drone](https://cloud.drone.io/api/badges/buluma/Dockerfiles-Test/status.svg)](https://cloud.drone.io/buluma/Dockerfiles-Test)
+[![CircleCI](https://circleci.com/gh/buluma/Dockerfiles-Test.svg?style=svg)](https://circleci.com/gh/buluma/Dockerfiles-Test)
 [![Codeship Status for buluma/Dockerfiles](https://app.codeship.com/projects/915368e0-3c5f-0138-52ff-1ecbdb7eccb9/status?branch=master)](https://app.codeship.com/projects/387249)
 [![Shippable](https://img.shields.io/shippable/5e52c63645c70f0007ff514e/master?label=Shippable&logo=jfrog)](https://app.shippable.com/github/buluma/Dockerfiles/dashboard/jobs)
 [![BuildKite](https://img.shields.io/buildkite/503cefcbf7f8c60c2826d7a22a22496d1187a4839b71619914/master?label=BuildKite&logo=buildkite)](https://buildkite.com/hari-sekhon/dockerfiles)
