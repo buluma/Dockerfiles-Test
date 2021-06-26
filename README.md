@@ -3,10 +3,6 @@ Big Data, NoSQL & DevOps Docker Images
 
 [![Codacy](https://api.codacy.com/project/badge/Grade/de6229f2d2ba4945acde9f86f59d2c66)](https://www.codacy.com/app/buluma/Dockerfiles)
 [![CodeFactor](https://www.codefactor.io/repository/github/buluma/dockerfiles-test/badge)](https://www.codefactor.io/repository/github/buluma/dockerfiles-test)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=buluma_Dockerfiles&metric=alert_status)](https://sonarcloud.io/dashboard?id=buluma_Dockerfiles)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=buluma_Dockerfiles&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=buluma_Dockerfiles)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=buluma_Dockerfiles&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=buluma_Dockerfiles)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=buluma_Dockerfiles&metric=security_rating)](https://sonarcloud.io/dashboard?id=buluma_Dockerfiles)
 [![GitHub stars](https://img.shields.io/github/stars/buluma/Dockerfiles?logo=github)](https://github.com/buluma/Dockerfiles/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/buluma/Dockerfiles?logo=github)](https://github.com/buluma/Dockerfiles/network)
 [![Contributors](https://img.shields.io/github/contributors/buluma/Dockerfiles?logo=github)](https://github.com/buluma/Dockerfiles/graphs/contributors)
