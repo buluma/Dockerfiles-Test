@@ -3,79 +3,79 @@ Big Data, NoSQL & DevOps Docker Images
 
 [![Codacy](https://api.codacy.com/project/badge/Grade/de6229f2d2ba4945acde9f86f59d2c66)](https://www.codacy.com/app/buluma/Dockerfiles)
 [![CodeFactor](https://www.codefactor.io/repository/github/buluma/Dockerfiles/badge)](https://www.codefactor.io/repository/github/buluma/Dockerfiles)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Dockerfiles&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Dockerfiles)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Dockerfiles&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Dockerfiles)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Dockerfiles&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Dockerfiles)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Dockerfiles&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Dockerfiles)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=buluma_Dockerfiles&metric=alert_status)](https://sonarcloud.io/dashboard?id=buluma_Dockerfiles)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=buluma_Dockerfiles&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=buluma_Dockerfiles)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=buluma_Dockerfiles&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=buluma_Dockerfiles)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=buluma_Dockerfiles&metric=security_rating)](https://sonarcloud.io/dashboard?id=buluma_Dockerfiles)
 [![GitHub stars](https://img.shields.io/github/stars/buluma/Dockerfiles?logo=github)](https://github.com/buluma/Dockerfiles/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/buluma/Dockerfiles?logo=github)](https://github.com/buluma/Dockerfiles/network)
-[![Contributors](https://img.shields.io/github/contributors/HariSekhon/Dockerfiles?logo=github)](https://github.com/HariSekhon/Dockerfiles/graphs/contributors)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Dockerfiles?logo=github)](https://github.com/HariSekhon/Dockerfiles/commits/master)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-8k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Dockerfiles)
+[![Contributors](https://img.shields.io/github/contributors/buluma/Dockerfiles?logo=github)](https://github.com/buluma/Dockerfiles/graphs/contributors)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/buluma/Dockerfiles?logo=github)](https://github.com/buluma/Dockerfiles/commits/master)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-8k-lightgrey?logo=codecademy)](https://github.com/buluma/Dockerfiles)
 
-[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/HariSekhon/Dockerfiles)
-[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/HariSekhon/Dockerfiles)
+[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/buluma/Dockerfiles)
+[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/buluma/Dockerfiles)
 [![Docker](https://img.shields.io/badge/container-Docker-blue?logo=docker&logoColor=white)](https://hub.docker.com/u/buluma)
-[![StarTrack](https://img.shields.io/badge/Star-Track-blue?logo=github)](https://seladb.github.io/StarTrack-js/#/preload?r=HariSekhon,Nagios-Plugins&r=HariSekhon,Dockerfiles&r=HariSekhon,DevOps-Python-tools&r=HariSekhon,DevOps-Perl-tools&r=HariSekhon,DevOps-Bash-tools&r=HariSekhon,HAProxy-configs&r=HariSekhon,SQL-scripts)
-[![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
+[![StarTrack](https://img.shields.io/badge/Star-Track-blue?logo=github)](https://seladb.github.io/StarTrack-js/#/preload?r=buluma,Nagios-Plugins&r=buluma,Dockerfiles&r=buluma,DevOps-Python-tools&r=buluma,DevOps-Perl-tools&r=buluma,DevOps-Bash-tools&r=buluma,HAProxy-configs&r=buluma,SQL-scripts)
+[![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/buluma/DevOps-Bash-tools/blob/master/STARCHARTS.md)
 
 [![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://bitbucket.org/buluma/devops-bash-tools/src/master/STATUS.md)
-[![Jenkins](https://img.shields.io/badge/Jenkins-ready-blue?logo=jenkins&logoColor=white)](https://github.com/HariSekhon/Dockerfiles/blob/master/Jenkinsfile)
-[![Concourse](https://img.shields.io/badge/Concourse-ready-blue?logo=concourse)](https://github.com/HariSekhon/Dockerfiles/blob/master/.concourse.yml)
-[![GoCD](https://img.shields.io/badge/GoCD-ready-blue?logo=go)](https://github.com/HariSekhon/Dockerfiles/blob/master/.gocd.yml)
-[![TeamCity](https://img.shields.io/badge/TeamCity-ready-blue?logo=teamcity)](https://github.com/HariSekhon/TeamCity-CI)
+[![Jenkins](https://img.shields.io/badge/Jenkins-ready-blue?logo=jenkins&logoColor=white)](https://github.com/buluma/Dockerfiles/blob/master/Jenkinsfile)
+[![Concourse](https://img.shields.io/badge/Concourse-ready-blue?logo=concourse)](https://github.com/buluma/Dockerfiles/blob/master/.concourse.yml)
+[![GoCD](https://img.shields.io/badge/GoCD-ready-blue?logo=go)](https://github.com/buluma/Dockerfiles/blob/master/.gocd.yml)
+[![TeamCity](https://img.shields.io/badge/TeamCity-ready-blue?logo=teamcity)](https://github.com/buluma/TeamCity-CI)
 
-[![Travis CI](https://img.shields.io/travis/buluma/Dockerfiles/master?logo=travis&label=Travis%20CI)](https://travis-ci.org/HariSekhon/Dockerfiles)
-[![AppVeyor](https://img.shields.io/appveyor/build/buluma/Dockerfiles/master?logo=appveyor&label=AppVeyor)](https://ci.appveyor.com/project/HariSekhon/Dockerfiles/branch/master)
-[![Drone](https://img.shields.io/drone/build/HariSekhon/Dockerfiles/master?logo=drone&label=Drone)](https://cloud.drone.io/HariSekhon/Dockerfiles)
-[![CircleCI](https://circleci.com/gh/HariSekhon/Dockerfiles.svg?style=svg)](https://circleci.com/gh/HariSekhon/Dockerfiles)
-[![Codeship Status for HariSekhon/Dockerfiles](https://app.codeship.com/projects/915368e0-3c5f-0138-52ff-1ecbdb7eccb9/status?branch=master)](https://app.codeship.com/projects/387249)
-[![Shippable](https://img.shields.io/shippable/5e52c63645c70f0007ff514e/master?label=Shippable&logo=jfrog)](https://app.shippable.com/github/HariSekhon/Dockerfiles/dashboard/jobs)
+[![Travis CI](https://img.shields.io/travis/buluma/Dockerfiles/master?logo=travis&label=Travis%20CI)](https://travis-ci.org/buluma/Dockerfiles)
+[![AppVeyor](https://img.shields.io/appveyor/build/buluma/Dockerfiles/master?logo=appveyor&label=AppVeyor)](https://ci.appveyor.com/project/buluma/Dockerfiles/branch/master)
+[![Drone](https://img.shields.io/drone/build/buluma/Dockerfiles/master?logo=drone&label=Drone)](https://cloud.drone.io/buluma/Dockerfiles)
+[![CircleCI](https://circleci.com/gh/buluma/Dockerfiles.svg?style=svg)](https://circleci.com/gh/buluma/Dockerfiles)
+[![Codeship Status for buluma/Dockerfiles](https://app.codeship.com/projects/915368e0-3c5f-0138-52ff-1ecbdb7eccb9/status?branch=master)](https://app.codeship.com/projects/387249)
+[![Shippable](https://img.shields.io/shippable/5e52c63645c70f0007ff514e/master?label=Shippable&logo=jfrog)](https://app.shippable.com/github/buluma/Dockerfiles/dashboard/jobs)
 [![BuildKite](https://img.shields.io/buildkite/503cefcbf7f8c60c2826d7a22a22496d1187a4839b71619914/master?label=BuildKite&logo=buildkite)](https://buildkite.com/hari-sekhon/dockerfiles)
 [![Codefresh](https://g.codefresh.io/api/badges/pipeline/buluma/GitHub%2FDockerfiles?branch=master&key=eyJhbGciOiJIUzI1NiJ9.NWU1MmM5OGNiM2FiOWUzM2Y3ZDZmYjM3.O69674cW7vYom3v5JOGKXDbYgCVIJU9EWhXUMHl3zwA&type=cf-1)](https://g.codefresh.io/pipelines/edit/new/builds?id=5e58e32c9604d7520e95ee26&pipeline=Dockerfiles&projects=GitHub&projectId=5e52ca8ea284e00f882ea992&context=github&filter=page:1;pageSize:10;timeFrameStart:week)
-[![Cirrus CI](https://img.shields.io/cirrus/github/HariSekhon/Dockerfiles/master?logo=Cirrus%20CI&label=Cirrus%20CI)](https://cirrus-ci.com/github/HariSekhon/Dockerfiles)
+[![Cirrus CI](https://img.shields.io/cirrus/github/buluma/Dockerfiles/master?logo=Cirrus%20CI&label=Cirrus%20CI)](https://cirrus-ci.com/github/buluma/Dockerfiles)
 [![Semaphore](https://buluma.semaphoreci.com/badges/Dockerfiles.svg)](https://buluma.semaphoreci.com/projects/Dockerfiles)
 [![Wercker](https://app.wercker.com/status/26a0f1151450a0de3d8a339345b70019/s/master "wercker status")](https://app.wercker.com/buluma/dockerfiles/runs)
-[![Buddy](https://img.shields.io/badge/Buddy-ready-1A86FD?logo=buddy)](https://github.com/HariSekhon/Dockerfiles/blob/master/buddy.yml)
+[![Buddy](https://img.shields.io/badge/Buddy-ready-1A86FD?logo=buddy)](https://github.com/buluma/Dockerfiles/blob/master/buddy.yml)
 <!--[![Wercker](https://img.shields.io/wercker/ci/5e58ef5791cbef3500c15ddb/master?label=Wercker&logo=oracle)](https://app.wercker.com/buluma/dockerfiles/runs)-->
 
-[![Azure DevOps Pipeline](https://dev.azure.com/buluma/GitHub/_apis/build/status/HariSekhon.Dockerfiles?branchName=master)](https://dev.azure.com/buluma/GitHub/_build/latest?definitionId=6&branchName=master)
-[![GitLab Pipeline](https://img.shields.io/gitlab/pipeline/buluma/Dockerfiles?logo=gitlab&label=GitLab%20CI)](https://gitlab.com/HariSekhon/Dockerfiles/pipelines)
+[![Azure DevOps Pipeline](https://dev.azure.com/buluma/GitHub/_apis/build/status/buluma.Dockerfiles?branchName=master)](https://dev.azure.com/buluma/GitHub/_build/latest?definitionId=6&branchName=master)
+[![GitLab Pipeline](https://img.shields.io/gitlab/pipeline/buluma/Dockerfiles?logo=gitlab&label=GitLab%20CI)](https://gitlab.com/buluma/Dockerfiles/pipelines)
 [![BitBucket Pipeline](https://img.shields.io/bitbucket/pipelines/buluma/dockerfiles/master?logo=bitbucketi&label=BitBucket%20CI)](https://bitbucket.org/buluma/dockerfiles/addon/pipelines/home#!/)
-[![AWS CodeBuild](https://img.shields.io/badge/AWS%20CodeBuild-ready-blue?logo=amazon%20aws)](https://github.com/HariSekhon/Dockerfiles/blob/master/buildspec.yml)
-[![GCP Cloud Build](https://img.shields.io/badge/GCP%20Cloud%20Build-ready-blue?logo=google%20cloud&logoColor=white)](https://github.com/HariSekhon/Dockerfiles/blob/master/cloudbuild.yaml)
+[![AWS CodeBuild](https://img.shields.io/badge/AWS%20CodeBuild-ready-blue?logo=amazon%20aws)](https://github.com/buluma/Dockerfiles/blob/master/buildspec.yml)
+[![GCP Cloud Build](https://img.shields.io/badge/GCP%20Cloud%20Build-ready-blue?logo=google%20cloud&logoColor=white)](https://github.com/buluma/Dockerfiles/blob/master/cloudbuild.yaml)
 
 [![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/buluma/GitHub/_git/Dockerfiles)
-[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Dockerfiles)
-[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Dockerfiles)
-[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Dockerfiles)
+[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/buluma/Dockerfiles)
+[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/buluma/Dockerfiles)
+[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/buluma/Dockerfiles)
 
-[![GitHub Actions Ubuntu](https://github.com/HariSekhon/Dockerfiles/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
-[![Mac](https://github.com/HariSekhon/Dockerfiles/workflows/Mac/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Mac%22)
-[![Mac 10.15](https://github.com/HariSekhon/Dockerfiles/workflows/Mac%2010.15/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Mac+10.15%22)
-[![Ubuntu](https://github.com/HariSekhon/Dockerfiles/workflows/Ubuntu/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Ubuntu%22)
-[![Ubuntu 14.04](https://github.com/HariSekhon/Dockerfiles/workflows/Ubuntu%2014.04/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Ubuntu+14.04%22)
-[![Ubuntu 16.04](https://github.com/HariSekhon/Dockerfiles/workflows/Ubuntu%2016.04/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Ubuntu+16.04%22)
-[![Ubuntu 18.04](https://github.com/HariSekhon/Dockerfiles/workflows/Ubuntu%2018.04/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Ubuntu+18.04%22)
-[![Ubuntu 20.04](https://github.com/HariSekhon/Dockerfiles/workflows/Ubuntu%2020.04/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Ubuntu+20.04%22)
-[![Debian](https://github.com/HariSekhon/Dockerfiles/workflows/Debian/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Debian%22)
-[![Debian 8](https://github.com/HariSekhon/Dockerfiles/workflows/Debian%208/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Debian+8%22)
-[![Debian 9](https://github.com/HariSekhon/Dockerfiles/workflows/Debian%209/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Debian+9%22)
-[![Debian 10](https://github.com/HariSekhon/Dockerfiles/workflows/Debian%2010/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Debian+10%22)
-[![CentOS](https://github.com/HariSekhon/Dockerfiles/workflows/CentOS/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22CentOS%22)
-[![CentOS 7](https://github.com/HariSekhon/Dockerfiles/workflows/CentOS%207/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22CentOS+7%22)
-[![CentOS 8](https://github.com/HariSekhon/Dockerfiles/workflows/CentOS%208/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22CentOS+8%22)
-[![Fedora](https://github.com/HariSekhon/Dockerfiles/workflows/Fedora/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Fedora%22)
-[![Alpine](https://github.com/HariSekhon/Dockerfiles/workflows/Alpine/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Alpine%22)
-[![Alpine 3](https://github.com/HariSekhon/Dockerfiles/workflows/Alpine%203/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Alpine+3%22)
+[![GitHub Actions Ubuntu](https://github.com/buluma/Dockerfiles/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/buluma/Dockerfiles/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
+[![Mac](https://github.com/buluma/Dockerfiles/workflows/Mac/badge.svg)](https://github.com/buluma/Dockerfiles/actions?query=workflow%3A%22Mac%22)
+[![Mac 10.15](https://github.com/buluma/Dockerfiles/workflows/Mac%2010.15/badge.svg)](https://github.com/buluma/Dockerfiles/actions?query=workflow%3A%22Mac+10.15%22)
+[![Ubuntu](https://github.com/buluma/Dockerfiles/workflows/Ubuntu/badge.svg)](https://github.com/buluma/Dockerfiles/actions?query=workflow%3A%22Ubuntu%22)
+[![Ubuntu 14.04](https://github.com/buluma/Dockerfiles/workflows/Ubuntu%2014.04/badge.svg)](https://github.com/buluma/Dockerfiles/actions?query=workflow%3A%22Ubuntu+14.04%22)
+[![Ubuntu 16.04](https://github.com/buluma/Dockerfiles/workflows/Ubuntu%2016.04/badge.svg)](https://github.com/buluma/Dockerfiles/actions?query=workflow%3A%22Ubuntu+16.04%22)
+[![Ubuntu 18.04](https://github.com/buluma/Dockerfiles/workflows/Ubuntu%2018.04/badge.svg)](https://github.com/buluma/Dockerfiles/actions?query=workflow%3A%22Ubuntu+18.04%22)
+[![Ubuntu 20.04](https://github.com/buluma/Dockerfiles/workflows/Ubuntu%2020.04/badge.svg)](https://github.com/buluma/Dockerfiles/actions?query=workflow%3A%22Ubuntu+20.04%22)
+[![Debian](https://github.com/buluma/Dockerfiles/workflows/Debian/badge.svg)](https://github.com/buluma/Dockerfiles/actions?query=workflow%3A%22Debian%22)
+[![Debian 8](https://github.com/buluma/Dockerfiles/workflows/Debian%208/badge.svg)](https://github.com/buluma/Dockerfiles/actions?query=workflow%3A%22Debian+8%22)
+[![Debian 9](https://github.com/buluma/Dockerfiles/workflows/Debian%209/badge.svg)](https://github.com/buluma/Dockerfiles/actions?query=workflow%3A%22Debian+9%22)
+[![Debian 10](https://github.com/buluma/Dockerfiles/workflows/Debian%2010/badge.svg)](https://github.com/buluma/Dockerfiles/actions?query=workflow%3A%22Debian+10%22)
+[![CentOS](https://github.com/buluma/Dockerfiles/workflows/CentOS/badge.svg)](https://github.com/buluma/Dockerfiles/actions?query=workflow%3A%22CentOS%22)
+[![CentOS 7](https://github.com/buluma/Dockerfiles/workflows/CentOS%207/badge.svg)](https://github.com/buluma/Dockerfiles/actions?query=workflow%3A%22CentOS+7%22)
+[![CentOS 8](https://github.com/buluma/Dockerfiles/workflows/CentOS%208/badge.svg)](https://github.com/buluma/Dockerfiles/actions?query=workflow%3A%22CentOS+8%22)
+[![Fedora](https://github.com/buluma/Dockerfiles/workflows/Fedora/badge.svg)](https://github.com/buluma/Dockerfiles/actions?query=workflow%3A%22Fedora%22)
+[![Alpine](https://github.com/buluma/Dockerfiles/workflows/Alpine/badge.svg)](https://github.com/buluma/Dockerfiles/actions?query=workflow%3A%22Alpine%22)
+[![Alpine 3](https://github.com/buluma/Dockerfiles/workflows/Alpine%203/badge.svg)](https://github.com/buluma/Dockerfiles/actions?query=workflow%3A%22Alpine+3%22)
 
 [git.io/dockerhub](https://git.io/dockerhub)
 
-##### Contains 50+ DockerHub repos with 340+ tags, many different versions of standard official open source software, see [Full Inventory](https://github.com/HariSekhon/Dockerfiles#full-inventory) futher down.
+##### Contains 50+ DockerHub repos with 340+ tags, many different versions of standard official open source software, see [Full Inventory](https://github.com/buluma/Dockerfiles#full-inventory) futher down.
 
 These docker images are tested by hundreds of tools and also used in the full functional test suites of various other GitHub repos.
 
-See also the [Kubernetes configs](https://github.com/HariSekhon/Kubernetes-configs) repo.
+See also the [Kubernetes configs](https://github.com/buluma/Kubernetes-configs) repo.
 
 Overview - this repo contains:
 
@@ -83,15 +83,15 @@ Overview - this repo contains:
 * **NoSQL** datastores (HBase, Cassandra, Riak, SolrCloud)
 * OS & development images (Alpine, CentOS, Debian, Fedora, Ubuntu)
 * **DevOps** tech, anything cool and open source (RabbitMQ Cluster, Mesos, Consul)
-* [My GitHub repos](https://github.com/HariSekhon) containing hundreds of tools related to these technologies with all dependencies pre-built in the docker images
+* [My GitHub repos](https://github.com/buluma) containing hundreds of tools related to these technologies with all dependencies pre-built in the docker images
 
 These images are all available pre-built on [My DockerHub - https://hub.docker.com/u/buluma/](https://hub.docker.com/u/buluma/).
 
-**Quality and Testing** - this repo has entire test suites run against it from various [GitHub repositories](https://github.com/HariSekhon) to validate the docker images' functionality, branches vs tagged versions align, latest contains correct version from master branch, syntax checks covering all common build and file formats (Make/JSON/CSV/INI/XML/YAML configurations) etc.
+**Quality and Testing** - this repo has entire test suites run against it from various [GitHub repositories](https://github.com/buluma) to validate the docker images' functionality, branches vs tagged versions align, latest contains correct version from master branch, syntax checks covering all common build and file formats (Make/JSON/CSV/INI/XML/YAML configurations) etc.
 
-These are reusable tests that can anybody can implement and can be found in my [DevOps Python Tools](https://github.com/HariSekhon/devops-python-tools) and [DevOps Bash Tools](https://github.com/HariSekhon/devops-bash-tools) repos as well as the [Advanced Nagios Plugins Collection](https://github.com/HariSekhon/nagios-plugins) which contains hundreds of technology specific API-level test programs to ensure the docker images are functioning as intended.
+These are reusable tests that can anybody can implement and can be found in my [DevOps Python Tools](https://github.com/buluma/devops-python-tools) and [DevOps Bash Tools](https://github.com/buluma/devops-bash-tools) repos as well as the [Advanced Nagios Plugins Collection](https://github.com/buluma/nagios-plugins) which contains hundreds of technology specific API-level test programs to ensure the docker images are functioning as intended.
 
-[Continuous Integration](https://travis-ci.org/HariSekhon/Dockerfiles) in run on this and adjacent repos that form a bi-directional validation between these docker images and several other repositories full of hundreds of programs. All of this is intended to keep the quality of this repo as high as possible.
+[Continuous Integration](https://travis-ci.org/buluma/Dockerfiles) in run on this and adjacent repos that form a bi-directional validation between these docker images and several other repositories full of hundreds of programs. All of this is intended to keep the quality of this repo as high as possible.
 
 Hari Sekhon
 
@@ -99,7 +99,7 @@ Cloud & Big Data Contractor, United Kingdom
 
 (ex-Cloudera, former Hortonworks Consultant)
 
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=linkedin)](https://www.linkedin.com/in/buluma/)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-buluma-blue?logo=linkedin)](https://www.linkedin.com/in/buluma/)
 ###### (you're welcome to connect with me on LinkedIn)
 
 ### Ready to run Docker images
@@ -157,25 +157,25 @@ docker run -ti -p 8020:8020 -p 8032:8032 -p 8088:8088 -p 9000:9000 -p 10020:1002
 
 ##### Official Standard Open Source Technologies:
 
-More specific information can be found in the readme page under each respective directory in the [Dockerfiles git repo](https://github.com/HariSekhon/Dockerfiles).
+More specific information can be found in the readme page under each respective directory in the [Dockerfiles git repo](https://github.com/buluma/Dockerfiles).
 
-- [Alluxio](http://www.alluxio.org/) - distributed in-memory filesystem for cluster computing frameworks by UC Berkely's [AMPLab](https://amplab.cs.berkeley.edu/) - [readme](https://github.com/HariSekhon/Dockerfiles/blob/master/alluxio/README-alluxio.md)
-- [Apache Drill](https://drill.apache.org/) - distributed SQL engine by [MapR](https://mapr.com/) (opens Drill SQL shell) - [readme](https://github.com/HariSekhon/Dockerfiles/blob/master/apache-drill/README-apache-drill.md)
-- [Awless](http://awless.io/) - a Mighty CLI for AWS - [readme](https://github.com/HariSekhon/Dockerfiles/blob/master/awless/README-awless.md)
+- [Alluxio](http://www.alluxio.org/) - distributed in-memory filesystem for cluster computing frameworks by UC Berkely's [AMPLab](https://amplab.cs.berkeley.edu/) - [readme](https://github.com/buluma/Dockerfiles/blob/master/alluxio/README-alluxio.md)
+- [Apache Drill](https://drill.apache.org/) - distributed SQL engine by [MapR](https://mapr.com/) (opens Drill SQL shell) - [readme](https://github.com/buluma/Dockerfiles/blob/master/apache-drill/README-apache-drill.md)
+- [Awless](http://awless.io/) - a Mighty CLI for AWS - [readme](https://github.com/buluma/Dockerfiles/blob/master/awless/README-awless.md)
 - [Cassandra](http://cassandra.apache.org/) - distributed NoSQL datastore by Facebook and [DataStax](https://www.datastax.com/) (opens CQL shell, bundled with [nagios-plugins](https://github.com/buluma/nagios-plugins))
 - [Consul](https://www.consul.io/) - distributed service discovery by [HashiCorp](https://www.hashicorp.com/)
-- [FakeS3](https://supso.org/projects/fake-s3) - Amazon S3 API simulator for testing without incurring AWS S3 costs - [readme](https://github.com/HariSekhon/Dockerfiles/blob/master/fakes3/README-fakes3.md)
+- [FakeS3](https://supso.org/projects/fake-s3) - Amazon S3 API simulator for testing without incurring AWS S3 costs - [readme](https://github.com/buluma/Dockerfiles/blob/master/fakes3/README-fakes3.md)
 - [H2O](https://www.h2o.ai/) - distributed machine learning framework by [0xdata](https://www.h2o.ai/)
-- [Hadoop](http://hadoop.apache.org/) (HDFS + Yarn) - distributed storage and compute cluster by Yahoo, [Cloudera](https://www.cloudera.com/) and [Hortonworks](https://hortonworks.com/) - [readme](https://github.com/HariSekhon/Dockerfiles/blob/master/hadoop/README-hadoop.md)
-- [HBase](https://hbase.apache.org/) - distributed NoSQL datastore by Facebook (opens HBase shell) - [readme](https://github.com/HariSekhon/Dockerfiles/blob/master/hbase/README-hbase.md)
-- [Jenkins Agent](https://www.jenkins.io/) with Docker - Jenkins inbound-agent with docker & docker-compose installed - [readme](https://github.com/HariSekhon/Dockerfiles/blob/master/jenkins-agent-docker/README-jenkins-agent-docker.md)
+- [Hadoop](http://hadoop.apache.org/) (HDFS + Yarn) - distributed storage and compute cluster by Yahoo, [Cloudera](https://www.cloudera.com/) and [Hortonworks](https://hortonworks.com/) - [readme](https://github.com/buluma/Dockerfiles/blob/master/hadoop/README-hadoop.md)
+- [HBase](https://hbase.apache.org/) - distributed NoSQL datastore by Facebook (opens HBase shell) - [readme](https://github.com/buluma/Dockerfiles/blob/master/hbase/README-hbase.md)
+- [Jenkins Agent](https://www.jenkins.io/) with Docker - Jenkins inbound-agent with docker & docker-compose installed - [readme](https://github.com/buluma/Dockerfiles/blob/master/jenkins-agent-docker/README-jenkins-agent-docker.md)
 - [Jython](http://www.jython.org/) - Python on Java JVM (useful for Hadoop python utilities using Hadoop's Java API. eg. [DevOps Python Tools](https://github.com/buluma/devops-python-tools))
 - [Kafka](https://kafka.apache.org/) - pub-sub data broker by [LinkedIn](https://www.linkedin.com) and [Confluent](https://www.confluent.io/). Deprecated, see new [Confluent docker images](https://hub.docker.com/u/confluentinc/) instead
 - [Mesos](http://mesos.apache.org/) - datacenter resource manager by [Mesosphere](https://mesosphere.com/) (mostly obsoleted by more free Hortonworks / Hadoop Yarn resource manager)
 - [Nifi](https://nifi.apache.org/) - IOT data flow engine by NSA and [Hortonworks](https://hortonworks.com/)
-- [OpenTSDB TCollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - metrics collector - sends metrics to OpenTSDB - [readme](https://github.com/HariSekhon/Dockerfiles/blob/master/tcollector/README-tcollector.md)
-- [Presto](https://prestodb.io/) - distributed SQL engine by Facebook (opens Presto SQL shell) - [readme](https://github.com/HariSekhon/Dockerfiles/blob/master/presto-dev/README-presto.md)
-- [Presto (Teradata distribution)](http://www.teradata.com/products-and-services/Presto/Presto-Download) - Teradata's Presto distribution including ODBC and JDBC drivers (opens Presto SQL shell) - [readme](https://github.com/HariSekhon/Dockerfiles/blob/master/presto/README-presto.md)
+- [OpenTSDB TCollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - metrics collector - sends metrics to OpenTSDB - [readme](https://github.com/buluma/Dockerfiles/blob/master/tcollector/README-tcollector.md)
+- [Presto](https://prestodb.io/) - distributed SQL engine by Facebook (opens Presto SQL shell) - [readme](https://github.com/buluma/Dockerfiles/blob/master/presto-dev/README-presto.md)
+- [Presto (Teradata distribution)](http://www.teradata.com/products-and-services/Presto/Presto-Download) - Teradata's Presto distribution including ODBC and JDBC drivers (opens Presto SQL shell) - [readme](https://github.com/buluma/Dockerfiles/blob/master/presto/README-presto.md)
 - [RabbitMQ](https://www.rabbitmq.com/) Cluster - pub-sub message queue broker by [Pivotal](https://pivotal.io/) (extension of RabbitMQ official image with added plugins)
 - [Riak KV](http://basho.com/products/riak-kv/) - distributed NoSQL datastore by [Basho](http://basho.com/)
 - [Riak KV](http://basho.com/products/riak-kv/) (bundled with [nagios-plugins](https://github.com/buluma/nagios-plugins))
@@ -204,7 +204,7 @@ Repos suffixed with ```-dev``` are the official technologies + development & deb
   - `buluma/bash-tools` - [DevOps Bash Tools](https://github.com/buluma/devops-bash-tools) - 200+ DevOps CLI tools for AWS, GCP, Kubernetes, Hadoop, Hive, Impala, Kafka, Docker, LDAP, Git, Code & build linting, package management for Linux / Mac / Python / Perl / Ruby / NodeJS / Golang, and lots more random goodies
   - `buluma/perl-tools` - [DevOps Perl Tools](https://github.com/buluma/devops-perl-tools) - 25+ DevOps CLI Tools - Log Anonymizer, Hadoop HDFS & Hive tools, Solr/SolrCloud CLI, SQL ReCaser (MySQL, PostgreSQL, AWS Redshift, Snowflake, Apache Drill, Hive, Impala, Cassandra CQL, Microsoft SQL Server, Oracle, Couchbase N1QL, Dockerfiles, Pig Latin, Neo4j, InfluxDB), Linux, Nginx stats & HTTP(S) URL watchers for load balanced web farms, Ambari FreeIPA Kerberos, Datameer etc.
   - all of the above repos come with tags for `alpine`, `centos`, `debian`, `fedora` and `ubuntu` builds
-- [Spotify Tools](https://github.com/buluma/spotify-tools) - Spotify API tools - eg. convert Spotify URIs to `Artist - Track` form by querying the Spotify API - [readme](https://github.com/HariSekhon/Dockerfiles/blob/master/spotify-tools/README-spotify.md)
+- [Spotify Tools](https://github.com/buluma/spotify-tools) - Spotify API tools - eg. convert Spotify URIs to `Artist - Track` form by querying the Spotify API - [readme](https://github.com/buluma/Dockerfiles/blob/master/spotify-tools/README-spotify.md)
 
 - all Github repos pre-built on major Linux distros with CLI programs located at `/github/<project>`
   - `buluma/github:centos` / `buluma/github:latest`
@@ -287,11 +287,11 @@ Please raise tickets for issues and improvements at https://github.com/buluma/do
 
 * [DevOps Bash Tools](https://github.com/buluma/devops-bash-tools) - 550+ DevOps Bash Scripts, Advanced `.bashrc`, `.vimrc`, `.screenrc`, `.tmux.conf`, `.gitconfig`, CI configs & Utility Code Library - AWS, GCP, Kubernetes, Docker, Kafka, Hadoop, SQL, BigQuery, Hive, Impala, PostgreSQL, MySQL, LDAP, DockerHub, Jenkins, Spotify API & MP3 tools, Git tricks, GitHub API, GitLab API, BitBucket API, Code & build linting, package management for Linux / Mac / Python / Perl / Ruby / NodeJS / Golang, and lots more random goodies
 
-* [SQL Scripts](https://github.com/HariSekhon/SQL-scripts) - 100+ SQL Scripts - PostgreSQL, MySQL, AWS Athena, Google BigQuery
+* [SQL Scripts](https://github.com/buluma/SQL-scripts) - 100+ SQL Scripts - PostgreSQL, MySQL, AWS Athena, Google BigQuery
 
-* [Templates](https://github.com/HariSekhon/Templates) - dozens of Code & Config templates - AWS, GCP, Docker, Jenkins, Terraform, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, Groovy, Maven, SBT, Gradle, Make, GitHub Actions Workflows, CircleCI, Jenkinsfile, Makefile, Dockerfile, docker-compose.yml, M4 etc.
+* [Templates](https://github.com/buluma/Templates) - dozens of Code & Config templates - AWS, GCP, Docker, Jenkins, Terraform, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, Groovy, Maven, SBT, Gradle, Make, GitHub Actions Workflows, CircleCI, Jenkinsfile, Makefile, Dockerfile, docker-compose.yml, M4 etc.
 
-* [Kubernetes configs](https://github.com/HariSekhon/Kubernetes-configs) - Kubernetes YAML configs - Best Practices, Tips & Tricks are baked right into the templates for future deployments
+* [Kubernetes configs](https://github.com/buluma/Kubernetes-configs) - Kubernetes YAML configs - Best Practices, Tips & Tricks are baked right into the templates for future deployments
 
 * [DevOps Python Tools](https://github.com/buluma/devops-python-tools) - 80+ DevOps CLI tools for AWS, Hadoop, HBase, Spark, Log Anonymizer, Ambari Blueprints, AWS CloudFormation, Linux, Docker, Spark Data Converters & Validators (Avro / Parquet / JSON / CSV / INI / XML / YAML), Elasticsearch, Solr, Travis CI, Pig, IPython
 
@@ -299,10 +299,10 @@ Please raise tickets for issues and improvements at https://github.com/buluma/do
 
 * [DevOps Perl Tools](https://github.com/buluma/perl-tools) - 25+ DevOps CLI tools for Hadoop, HDFS, Hive, Solr/SolrCloud CLI, Log Anonymizer, Nginx stats & HTTP(S) URL watchers for load balanced web farms, Dockerfiles & SQL ReCaser (MySQL, PostgreSQL, AWS Redshift, Snowflake, Apache Drill, Hive, Impala, Cassandra CQL, Microsoft SQL Server, Oracle, Couchbase N1QL, Dockerfiles, Pig Latin, Neo4j, InfluxDB), Ambari FreeIPA Kerberos, Datameer, Linux...
 
-* [HAProxy Configs](https://github.com/HariSekhon/HAProxy-configs) - 80+ HAProxy Configs for Hadoop, Big Data, NoSQL, Docker, Elasticsearch, SolrCloud, HBase, Cloudera, Hortonworks, MapR, MySQL, PostgreSQL, Apache Drill, Hive, Presto, Impala, ZooKeeper, OpenTSDB, InfluxDB, Prometheus, Kibana, Graphite, SSH, RabbitMQ, Redis, Riak, Rancher etc.
+* [HAProxy Configs](https://github.com/buluma/HAProxy-configs) - 80+ HAProxy Configs for Hadoop, Big Data, NoSQL, Docker, Elasticsearch, SolrCloud, HBase, Cloudera, Hortonworks, MapR, MySQL, PostgreSQL, Apache Drill, Hive, Presto, Impala, ZooKeeper, OpenTSDB, InfluxDB, Prometheus, Kibana, Graphite, SSH, RabbitMQ, Redis, Riak, Rancher etc.
 
 ### Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/HariSekhon/Dockerfiles.svg)](https://starchart.cc/HariSekhon/Dockerfiles)
+[![Stargazers over time](https://starchart.cc/buluma/Dockerfiles.svg)](https://starchart.cc/buluma/Dockerfiles)
 
 [git.io/dockerhub](https://git.io/dockerhub)
