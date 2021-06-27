@@ -30,7 +30,7 @@ Big Data, NoSQL & DevOps Docker Images
 [![BuildKite](https://img.shields.io/buildkite/503cefcbf7f8c60c2826d7a22a22496d1187a4839b71619914/master?label=BuildKite&logo=buildkite)](https://buildkite.com/hari-sekhon/dockerfiles)
 [![Codefresh](https://g.codefresh.io/api/badges/pipeline/buluma/GitHub%2FDockerfiles?branch=master&key=eyJhbGciOiJIUzI1NiJ9.NWU1MmM5OGNiM2FiOWUzM2Y3ZDZmYjM3.O69674cW7vYom3v5JOGKXDbYgCVIJU9EWhXUMHl3zwA&type=cf-1)](https://g.codefresh.io/pipelines/edit/new/builds?id=5e58e32c9604d7520e95ee26&pipeline=Dockerfiles&projects=GitHub&projectId=5e52ca8ea284e00f882ea992&context=github&filter=page:1;pageSize:10;timeFrameStart:week)
 [![Cirrus CI](https://img.shields.io/cirrus/github/buluma/Dockerfiles/master?logo=Cirrus%20CI&label=Cirrus%20CI)](https://cirrus-ci.com/github/buluma/Dockerfiles)
-[![Semaphore](https://buluma.semaphoreci.com/badges/Dockerfiles.svg)](https://buluma.semaphoreci.com/projects/Dockerfiles)
+[![Semaphore](https://buluma.semaphoreci.com/badges/Dockerfiles-Test.svg)](https://buluma.semaphoreci.com/projects/Dockerfiles-Test)
 [![Wercker](https://app.wercker.com/status/26a0f1151450a0de3d8a339345b70019/s/master "wercker status")](https://app.wercker.com/buluma/dockerfiles/runs)
 [![Buddy](https://img.shields.io/badge/Buddy-ready-1A86FD?logo=buddy)](https://github.com/buluma/Dockerfiles/blob/master/buddy.yml)
 <!--[![Wercker](https://img.shields.io/wercker/ci/5e58ef5791cbef3500c15ddb/master?label=Wercker&logo=oracle)](https://app.wercker.com/buluma/dockerfiles/runs)-->
