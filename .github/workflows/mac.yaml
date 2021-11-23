@@ -31,7 +31,7 @@ jobs:
     runs-on: macos-latest
     steps:
     - uses: actions/checkout@v2
-    - uses: actions/cache@v1
+    - uses: actions/cache@v2.1.7
       with:
         path: ~/Library/Caches/pip
         key: ${{ runner.os }}-pip-dockerfiles  # -${{ hashFiles('**/requirements.txt') }}
