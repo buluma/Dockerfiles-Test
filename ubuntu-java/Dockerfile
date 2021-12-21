@@ -31,7 +31,9 @@ RUN bash -c ' \
         pkg="$pkg-jre-headless"; \
     fi; \
     apt-get install -y --no-install-recommends "$pkg" && \
-    apt-get clean'
+    apt-get clean && \
+    rm -fr /var/lib/apt/lists \
+    '
 
 COPY profile.d/java.sh /etc/profile.d/
 
