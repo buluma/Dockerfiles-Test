@@ -17,16 +17,23 @@ MAINTAINER Hari Sekhon (https://www.linkedin.com/in/harisekhon)
 
 LABEL Description="DevOps Perl Tools (Debian)"
 
-ENV DEBIAN_FRONTEND noninteractive
+#ENV DEBIAN_FRONTEND noninteractive
 
 # used by build.sh to figure out which repo to bootstrap
 ENV PATH $PATH:/github/perl-tools
 
-COPY build.sh /
+ADD https://raw.githubusercontent.com/HariSekhon/DevOps-Bash-tools/master/setup/docker_bootstrap.sh /build.sh
 
-RUN /build.sh
+RUN chmod +x /build.sh && NO_TESTS=1 /build.sh
+
+# Cache Bust upon new commits
+ADD https://api.github.com/repos/HariSekhon/DevOps-Perl-tools/git/refs/heads/master /.git-hashref
+
+ADD https://raw.githubusercontent.com/HariSekhon/Dockerfiles/master/src/list_perl.sh /list.sh
+
+# 2nd run is almost a noop without cache, and only an incremental update upon cache bust
+RUN chmod +x /list.sh && /build.sh
 
 WORKDIR /github/perl-tools
 
-# trying to do -exec basename {} \; results in only the jython files being printed
-CMD ["/bin/bash", "-c", "find /github/perl-tools -maxdepth 1 -type f -iname '[A-Za-z]*.pl' | xargs -n1 basename | sort"]
+CMD ["/list.sh", "/github/perl-tools"]

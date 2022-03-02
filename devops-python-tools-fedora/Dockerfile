@@ -13,7 +13,9 @@
 
 # Alpine's underlying libraries are causing find_active_server.py --https mode to run all threads concurrently without respecting the --num causing indeterministic results and failing tests/test_find_active_server.sh
 #FROM alpine:latest
-FROM fedora:latest
+#FROM fedora:latest
+# Fedora 35 gets 'curl: (6) getaddrinfo() thread failed to start' for any address due to a bug
+FROM fedora:34
 MAINTAINER Hari Sekhon (https://www.linkedin.com/in/harisekhon)
 
 LABEL Description="Python Tools"
@@ -22,7 +24,7 @@ LABEL Description="Python Tools"
 #ENV PATH $PATH:$JYTHON_HOME/bin:/github/devops-python-tools
 
 # used by build.sh to figure out which repo to bootstrap
-ENV PATH $PATH:/github/pytools
+ENV PATH $PATH:/github/pytools:/github/pytools/bash-tools
 
 # not using Alpine any more
 # downgrading certifi package is a workaround so that dockerhub_show_tags.py will work with SSL
@@ -32,11 +34,19 @@ ENV PATH $PATH:/github/pytools
     #ln -s /usr/include/locale.h /usr/include/xlocale.h && \
     #py-cffi && \
 
-COPY build.sh /
+ADD https://raw.githubusercontent.com/HariSekhon/DevOps-Bash-tools/master/setup/docker_bootstrap.sh /build.sh
 
-RUN /build.sh
+RUN chmod +x /build.sh && NO_TESTS=1 /build.sh
     # downgrading certifi package is a workaround so that dockerhub_show_tags.py will work with SSL
     #pip uninstall -y certifi && pip install certifi==2015.04.28
+
+# Cache Bust upon new commits
+ADD https://api.github.com/repos/HariSekhon/DevOps-Python-tools/git/refs/heads/master /.git-hashref
+
+ADD https://raw.githubusercontent.com/HariSekhon/Dockerfiles/master/src/list_python_jython.sh /list.sh
+
+# 2nd run is almost a noop without cache, and only an incremental update upon cache bust
+RUN chmod +x /list.sh && /build.sh
 
 WORKDIR /github/pytools
 
@@ -55,5 +65,4 @@ WORKDIR /github/pytools
 
 #COPY profile.d/java.sh /etc/profile.d/
 
-# trying to do -exec basename {} \; results in only the jython files being printed
-CMD ["/bin/bash", "-c", "find /github/pytools -maxdepth 1 -type f -iname '[A-Za-z]*.py' -o -iname '[A-Za-z]*.jy' | xargs -n1 basename | sort"]
+CMD ["/list.sh", "/github/pytools"]

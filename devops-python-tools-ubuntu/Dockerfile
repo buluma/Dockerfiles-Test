@@ -24,11 +24,19 @@ ENV DEBIAN_FRONTEND noninteractive
 #ENV PATH $PATH:$JYTHON_HOME/bin:/github/devops-python-tools
 
 # used by build.sh to figure out which repo to bootstrap
-ENV PATH $PATH:/github/pytools
+ENV PATH $PATH:/github/pytools:/github/pytools/bash-tools
 
-COPY build.sh /
+ADD https://raw.githubusercontent.com/HariSekhon/DevOps-Bash-tools/master/setup/docker_bootstrap.sh /build.sh
 
-RUN /build.sh
+RUN chmod +x /build.sh && NO_TESTS=1 /build.sh
+
+# Cache Bust upon new commits
+ADD https://api.github.com/repos/HariSekhon/DevOps-Python-tools/git/refs/heads/master /.git-hashref
+
+ADD https://raw.githubusercontent.com/HariSekhon/Dockerfiles/master/src/list_python_jython.sh /list.sh
+
+# 2nd run is almost a noop without cache, and only an incremental update upon cache bust
+RUN chmod +x /list.sh && /build.sh
 
 # Jython
 #
@@ -47,5 +55,4 @@ RUN /build.sh
 
 WORKDIR /github/pytools
 
-# trying to do -exec basename {} \; results in only the jython files being printed
-CMD ["/bin/bash", "-c", "find /github/pytools -maxdepth 1 -type f -iname '[A-Za-z]*.py' -o -iname '[A-Za-z]*.jy' | xargs -n1 basename | sort"]
+CMD ["/list.sh", "/github/pytools"]

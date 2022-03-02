@@ -22,11 +22,14 @@ COPY build.sh /
 
 RUN /build.sh
 
-#ADD http://date.jsontest.com /etc/builddate
-ADD http://worldclockapi.com/api/json/utc/now /etc/builddate
+# Cache Bust upon new commits
+ADD https://api.github.com/repos/HariSekhon/Nagios-Plugins/git/refs/heads/master /.git-hashref
 
-# get updates, faster rebuild
+# 2nd run is almost a noop without cache, and only an incremental update upon cache bust
 RUN /build.sh
+
+#ADD http://date.jsontest.com /etc/builddate
+#ADD http://worldclockapi.com/api/json/utc/now /etc/builddate
 
 ENV PATH $PATH:/github/nagios-plugins
 
