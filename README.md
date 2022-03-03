@@ -52,28 +52,28 @@
 [![Validation](https://github.com/HariSekhon/Dockerfiles/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/validate.yaml)
 [![Semgrep](https://github.com/HariSekhon/Dockerfiles/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/semgrep.yaml)
 
-[![GitHub Actions Ubuntu](https://github.com/HariSekhon/Dockerfiles/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
-[![Mac](https://github.com/HariSekhon/Dockerfiles/workflows/Mac/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Mac%22)
-[![Mac 10.15](https://github.com/HariSekhon/Dockerfiles/workflows/Mac%2010.15/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Mac+10.15%22)
-[![Ubuntu](https://github.com/HariSekhon/Dockerfiles/workflows/Ubuntu/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Ubuntu%22)
-[![Ubuntu 14.04](https://github.com/HariSekhon/Dockerfiles/workflows/Ubuntu%2014.04/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Ubuntu+14.04%22)
-[![Ubuntu 16.04](https://github.com/HariSekhon/Dockerfiles/workflows/Ubuntu%2016.04/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Ubuntu+16.04%22)
-[![Ubuntu 18.04](https://github.com/HariSekhon/Dockerfiles/workflows/Ubuntu%2018.04/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Ubuntu+18.04%22)
-[![Ubuntu 20.04](https://github.com/HariSekhon/Dockerfiles/workflows/Ubuntu%2020.04/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Ubuntu+20.04%22)
-[![Debian](https://github.com/HariSekhon/Dockerfiles/workflows/Debian/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Debian%22)
-[![Debian 8](https://github.com/HariSekhon/Dockerfiles/workflows/Debian%208/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Debian+8%22)
-[![Debian 9](https://github.com/HariSekhon/Dockerfiles/workflows/Debian%209/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Debian+9%22)
-[![Debian 10](https://github.com/HariSekhon/Dockerfiles/workflows/Debian%2010/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Debian+10%22)
-[![CentOS](https://github.com/HariSekhon/Dockerfiles/workflows/CentOS/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22CentOS%22)
-[![CentOS 7](https://github.com/HariSekhon/Dockerfiles/workflows/CentOS%207/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22CentOS+7%22)
-[![CentOS 8](https://github.com/HariSekhon/Dockerfiles/workflows/CentOS%208/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22CentOS+8%22)
-[![Fedora](https://github.com/HariSekhon/Dockerfiles/workflows/Fedora/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Fedora%22)
-[![Alpine](https://github.com/HariSekhon/Dockerfiles/workflows/Alpine/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Alpine%22)
-[![Alpine 3](https://github.com/HariSekhon/Dockerfiles/workflows/Alpine%203/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Alpine+3%22)
+[![GitHub Actions Ubuntu](https://github.com/buluma/Dockerfiles-Test/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/buluma/Dockerfiles-Test/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
+[![Mac](https://github.com/buluma/Dockerfiles-Test/workflows/Mac/badge.svg)](https://github.com/HariSekhon/Dockerfiles-Test/actions?query=workflow%3A%22Mac%22)
+[![Mac 10.15](https://github.com/buluma/Dockerfiles-Test/workflows/Mac%2010.15/badge.svg)](https://github.com/buluma/Dockerfiles-Test/actions?query=workflow%3A%22Mac+10.15%22)
+[![Ubuntu](https://github.com/buluma/Dockerfiles-Test/workflows/Ubuntu/badge.svg)](https://github.com/buluma/Dockerfiles-Test/actions?query=workflow%3A%22Ubuntu%22)
+[![Ubuntu 14.04](https://github.com/buluma/Dockerfiles-Test/workflows/Ubuntu%2014.04/badge.svg)](https://github.com/buluma/Dockerfiles-Test/actions?query=workflow%3A%22Ubuntu+14.04%22)
+[![Ubuntu 16.04](https://github.com/buluma/Dockerfiles-Test/workflows/Ubuntu%2016.04/badge.svg)](https://github.com/buluma/Dockerfiles-Test/actions?query=workflow%3A%22Ubuntu+16.04%22)
+[![Ubuntu 18.04](https://github.com/buluma/Dockerfiles-Test/workflows/Ubuntu%2018.04/badge.svg)](https://github.com/buluma/Dockerfiles-Test/actions?query=workflow%3A%22Ubuntu+18.04%22)
+[![Ubuntu 20.04](https://github.com/buluma/Dockerfiles-Test/workflows/Ubuntu%2020.04/badge.svg)](https://github.com/buluma/Dockerfiles-Test/actions?query=workflow%3A%22Ubuntu+20.04%22)
+[![Debian](https://github.com/buluma/Dockerfiles-Test/workflows/Debian/badge.svg)](https://github.com/buluma/Dockerfiles-Test/actions?query=workflow%3A%22Debian%22)
+[![Debian 8](https://github.com/buluma/Dockerfiles-Test/workflows/Debian%208/badge.svg)](https://github.com/buluma/Dockerfiles-Test/actions?query=workflow%3A%22Debian+8%22)
+[![Debian 9](https://github.com/buluma/Dockerfiles-Test/workflows/Debian%209/badge.svg)](https://github.com/buluma/Dockerfiles-Test/actions?query=workflow%3A%22Debian+9%22)
+[![Debian 10](https://github.com/buluma/Dockerfiles-Test/workflows/Debian%2010/badge.svg)](https://github.com/buluma/Dockerfiles-Test/actions?query=workflow%3A%22Debian+10%22)
+[![CentOS](https://github.com/buluma/Dockerfiles-Test/workflows/CentOS/badge.svg)](https://github.com/buluma/Dockerfiles/actions?query=workflow%3A%22CentOS%22)
+[![CentOS 7](https://github.com/buluma/Dockerfiles-Test/workflows/CentOS%207/badge.svg)](https://github.com/buluma/Dockerfiles-Test/actions?query=workflow%3A%22CentOS+7%22)
+[![CentOS 8](https://github.com/buluma/Dockerfiles-Test/workflows/CentOS%208/badge.svg)](https://github.com/buluma/Dockerfiles-Test/actions?query=workflow%3A%22CentOS+8%22)
+[![Fedora](https://github.com/buluma/Dockerfiles-Test/workflows/Fedora/badge.svg)](https://github.com/buluma/Dockerfiles-Test/actions?query=workflow%3A%22Fedora%22)
+[![Alpine](https://github.com/buluma/Dockerfiles-Test/workflows/Alpine/badge.svg)](https://github.com/buluma/Dockerfiles-Test/actions?query=workflow%3A%22Alpine%22)
+[![Alpine 3](https://github.com/buluma/Dockerfiles-Test/workflows/Alpine%203/badge.svg)](https://github.com/buluma/Dockerfiles-Test/actions?query=workflow%3A%22Alpine+3%22)
 
 [git.io/dockerhub](https://git.io/dockerhub)
 
-##### Contains 50+ DockerHub repos with 340+ tags, many different versions of standard official open source software, see [Full Inventory](https://github.com/HariSekhon/Dockerfiles#full-inventory) futher down.
+##### Contains 50+ DockerHub repos with 340+ tags, many different versions of standard official open source software, see [Full Inventory](https://github.com/buluma/Dockerfiles-Test#full-inventory) futher down.
 
 These docker images are tested by hundreds of tools and also used in the full functional test suites of various other GitHub repos.
 
