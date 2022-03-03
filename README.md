@@ -26,9 +26,9 @@
 [![TeamCity](https://img.shields.io/badge/TeamCity-ready-blue?logo=teamcity)](https://github.com/HariSekhon/TeamCity-CI)
 
 [![Appveyor](https://ci.appveyor.com/api/projects/status/abh7h0mc5jloqe8w?svg=true)](https://ci.appveyor.com/project/buluma/dockerfiles-test)
-[![Drone](https://img.shields.io/drone/build/HariSekhon/Dockerfiles/master?logo=drone&label=Drone)](https://cloud.drone.io/HariSekhon/Dockerfiles)
-[![CircleCI](https://circleci.com/gh/HariSekhon/Dockerfiles.svg?style=svg)](https://circleci.com/gh/HariSekhon/Dockerfiles)
-[![Codeship Status for HariSekhon/Dockerfiles](https://app.codeship.com/projects/915368e0-3c5f-0138-52ff-1ecbdb7eccb9/status?branch=master)](https://app.codeship.com/projects/387249)
+[![Drone](https://cloud.drone.io/api/badges/buluma/Dockerfiles-Test/status.svg)](https://cloud.drone.io/buluma/Dockerfiles-Test)
+[![CircleCI](https://circleci.com/gh/buluma/Dockerfiles-Test/tree/master.svg?style=svg)](https://circleci.com/gh/buluma/Dockerfiles-Test/tree/master)
+[![Codeship Status for buluma/Dockerfiles-Test](https://app.codeship.com/projects/8e49c9e8-fa5a-4d87-ae2a-4a037abf67ff/status?branch=master)](https://app.codeship.com/projects/448081)
 [![Shippable](https://img.shields.io/shippable/5e52c63645c70f0007ff514e/master?label=Shippable&logo=jfrog)](https://app.shippable.com/github/HariSekhon/Dockerfiles/dashboard/jobs)
 [![BuildKite](https://img.shields.io/buildkite/503cefcbf7f8c60c2826d7a22a22496d1187a4839b71619914/master?label=BuildKite&logo=buildkite)](https://buildkite.com/hari-sekhon/dockerfiles)
 [![Codefresh](https://g.codefresh.io/api/badges/pipeline/harisekhon/GitHub%2FDockerfiles?branch=master&key=eyJhbGciOiJIUzI1NiJ9.NWU1MmM5OGNiM2FiOWUzM2Y3ZDZmYjM3.O69674cW7vYom3v5JOGKXDbYgCVIJU9EWhXUMHl3zwA&type=cf-1)](https://g.codefresh.io/pipelines/edit/new/builds?id=5e58e32c9604d7520e95ee26&pipeline=Dockerfiles&projects=GitHub&projectId=5e52ca8ea284e00f882ea992&context=github&filter=page:1;pageSize:10;timeFrameStart:week)
@@ -50,7 +50,7 @@
 [![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Dockerfiles)
 [![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Dockerfiles)
 [![Validation](https://github.com/HariSekhon/Dockerfiles/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/validate.yaml)
-[![Semgrep](https://github.com/HariSekhon/Dockerfiles/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/semgrep.yaml)
+[![Semgrep](https://github.com/buluma/Dockerfiles-Test/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/buluma/Dockerfiles-Test/actions/workflows/semgrep.yaml)
 
 [![GitHub Actions Ubuntu](https://github.com/buluma/Dockerfiles-Test/actions/workflows/ubuntu_github.yaml/badge.svg?branch=master)](https://github.com/buluma/Dockerfiles-Test/actions/workflows/ubuntu_github.yaml)
 [![Mac](https://github.com/buluma/Dockerfiles-Test/actions/workflows/mac.yaml/badge.svg)](https://github.com/buluma/Dockerfiles-Test/actions/workflows/mac.yaml)
