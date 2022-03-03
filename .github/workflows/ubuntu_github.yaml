@@ -4,11 +4,11 @@
 #
 #  vim:ts=2:sts=2:sw=2:et
 #
-#  https://github.com/HariSekhon/Dockerfiles
+#  https://github.com/buluma/Dockerfiles
 #
 #  If you're using my code you're welcome to connect with me on LinkedIn and optionally send me feedback
 #
-#  https://www.linkedin.com/in/HariSekhon
+#  https://www.linkedin.com/in/buluma
 #
 
 ---
@@ -33,8 +33,8 @@ concurrency:
 
 jobs:
   make:
-    if: github.event.repository.fork == false
+    if: github.event.repository.fork == true
     name: Make
-    uses: HariSekhon/GitHub-Actions/.github/workflows/ubuntu_github.yaml@master
+    uses: buluma/GitHub-Actions/.github/workflows/ubuntu_github.yaml@master
     with:
       debug: ${{ github.event.inputs.debug || false }}
