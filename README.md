@@ -34,7 +34,7 @@
 [![Codefresh](https://g.codefresh.io/api/badges/pipeline/harisekhon/GitHub%2FDockerfiles?branch=master&key=eyJhbGciOiJIUzI1NiJ9.NWU1MmM5OGNiM2FiOWUzM2Y3ZDZmYjM3.O69674cW7vYom3v5JOGKXDbYgCVIJU9EWhXUMHl3zwA&type=cf-1)](https://g.codefresh.io/pipelines/edit/new/builds?id=5e58e32c9604d7520e95ee26&pipeline=Dockerfiles&projects=GitHub&projectId=5e52ca8ea284e00f882ea992&context=github&filter=page:1;pageSize:10;timeFrameStart:week)
 [![Cirrus CI](https://img.shields.io/cirrus/github/HariSekhon/Dockerfiles/master?logo=Cirrus%20CI&label=Cirrus%20CI)](https://cirrus-ci.com/github/HariSekhon/Dockerfiles)
 [![Semaphore](https://harisekhon.semaphoreci.com/badges/Dockerfiles.svg)](https://harisekhon.semaphoreci.com/projects/Dockerfiles)
-[![Wercker](https://app.wercker.com/status/26a0f1151450a0de3d8a339345b70019/s/master "wercker status")](https://app.wercker.com/harisekhon/dockerfiles/runs)
+[![wercker status](https://app.wercker.com/status/05c1cb041bca44ec3a0f78121a0dea87/s/master "wercker status")](https://app.wercker.com/project/byKey/05c1cb041bca44ec3a0f78121a0dea87)
 [![Buddy](https://img.shields.io/badge/Buddy-ready-1A86FD?logo=buddy)](https://github.com/HariSekhon/Dockerfiles/blob/master/buddy.yml)
 [![Travis CI](https://img.shields.io/badge/TravisCI-legacy-lightgrey?logo=travis&label=Travis%20CI)](https://github.com/HariSekhon/Dockerfiles/blob/master/.travis.yml)
 <!--[![Wercker](https://img.shields.io/wercker/ci/5e58ef5791cbef3500c15ddb/master?label=Wercker&logo=oracle)](https://app.wercker.com/harisekhon/dockerfiles/runs)-->
