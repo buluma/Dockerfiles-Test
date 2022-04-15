@@ -1,5 +1,6 @@
-Jenkins inbound-agent + Docker
-==============================
+# Jenkins inbound-agent + Docker
+
+[![DockerHub Jenkins Agent](https://img.shields.io/badge/DockerHub-harisekhon%2Fjenkins--agent--docker-blue)](https://hub.docker.com/repository/docker/harisekhon/jenkins-agent-docker)
 
 Jenkins inbound agent + docker packages installed to be able to use the `docker` and `docker-compose` commands (combine with mounting docker socket).
 

@@ -1,5 +1,6 @@
-Teradata's distribution of Presto SQL DB (by Facebook)
-======================================================
+# Teradata's distribution of Presto SQL DB (by Facebook)
+
+[![DockerHub Presto](https://img.shields.io/badge/DockerHub-harisekhon%2Fpresto-blue)](https://hub.docker.com/repository/docker/harisekhon/presto)
 
 http://www.teradata.com/products-and-services/Presto/Presto-Download
 

@@ -1,5 +1,6 @@
-Presto SQL CLI by Facebook
-==========================
+# Presto SQL CLI by Facebook
+
+[![DockerHub Presto CLI Dev](https://img.shields.io/badge/DockerHub-harisekhon%2Fpresto--cli--dev-blue)](https://hub.docker.com/repository/docker/harisekhon/presto-cli-dev)
 
 https://prestodb.io/
 

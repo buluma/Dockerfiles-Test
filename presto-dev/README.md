@@ -1,5 +1,6 @@
-Presto SQL DB by Facebook
-=========================
+# Presto SQL DB by Facebook
+
+[![DockerHub Presto Dev](https://img.shields.io/badge/DockerHub-harisekhon%2Fpresto--dev-blue)](https://hub.docker.com/repository/docker/harisekhon/presto-dev)
 
 https://prestodb.io/
 

@@ -4,11 +4,11 @@
 #
 #  vim:ts=2:sts=2:sw=2:et
 #
-#  https://github.com/buluma/Dockerfiles
+#  https://github.com/HariSekhon/Dockerfiles
 #
 #  If you're using my code you're welcome to connect with me on LinkedIn and optionally send me feedback
 #
-#  https://www.linkedin.com/in/buluma
+#  https://www.linkedin.com/in/HariSekhon
 #
 
 ---
@@ -18,6 +18,8 @@ on:
   push:
     branches:
       - master
+    paths-ignore:
+      - '**/*.md'
   workflow_dispatch:
     inputs:
       debug:
@@ -27,15 +29,19 @@ on:
   schedule:
     - cron: '0 7 * * *'
 
+permissions:
+  contents: read
+
 concurrency:
   group: ${{ github.ref }}-${{ github.workflow }}
   cancel-in-progress: true
 
 jobs:
-  make:
-    if: github.event.repository.fork == true
-    name: Make
-    uses: buluma/GitHub-Actions/.github/workflows/make.yaml@master
+  build:
+    if: github.event.repository.fork == false
+    name: Build
+    uses: HariSekhon/GitHub-Actions/.github/workflows/make.yaml@master
     with:
       container: alpine:latest
-      debug: ${{ github.event.inputs.debug || false }}
+      caches: apk pip cpanm
+      debug: ${{ github.event.inputs.debug }}

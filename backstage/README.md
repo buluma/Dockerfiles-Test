@@ -1,5 +1,4 @@
-Backstage by Spotify
-====================
+# Backstage by Spotify
 
 Backstage is a software catalog and developer portal written by Spotify.
 

@@ -1,5 +1,6 @@
-Apache Hadoop
-=============
+# Apache Hadoop
+
+[![DockerHub Hadoop Dev](https://img.shields.io/badge/DockerHub-harisekhon%2Fhadoop--dev-blue)](https://hub.docker.com/repository/docker/harisekhon/hadoop-dev)
 
 https://hadoop.apache.org/
 

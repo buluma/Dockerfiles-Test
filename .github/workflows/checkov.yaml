@@ -27,10 +27,14 @@ on:
     branches:
       - master
       - main
+    paths-ignore:
+      - '**/*.md'
   pull_request:
     branches:
       - master
       - main
+    paths-ignore:
+      - '**/*.md'
   workflow_dispatch:
     inputs:
       debug:
@@ -51,4 +55,4 @@ jobs:
     name: Checkov
     uses: buluma/GitHub-Actions/.github/workflows/checkov.yaml@master
     with:
-      debug: ${{ github.event.inputs.debug || false }}
+      debug: ${{ github.event.inputs.debug }}

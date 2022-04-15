@@ -1,5 +1,6 @@
-[Superset](http://airbnb.io/projects/superset/) by Airbnb
-=========================================================
+# [Superset](http://airbnb.io/projects/superset/) by Airbnb
+
+[![DockerHub Superset](https://img.shields.io/badge/DockerHub-harisekhon%2Fsuperset-blue)](https://hub.docker.com/repository/docker/harisekhon/superset)
 
 Superset open source analytics UI by Airbnb.
 

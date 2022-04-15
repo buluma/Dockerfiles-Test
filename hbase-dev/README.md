@@ -1,5 +1,6 @@
-Apache HBase + Dev Tools
-========================
+# Apache HBase + Dev Tools
+
+[![DockerHub HBase Dev](https://img.shields.io/badge/DockerHub-harisekhon%2Fhvase--dev-blue)](https://hub.docker.com/repository/docker/harisekhon/hbase-dev)
 
 https://hbase.apache.org/
 
